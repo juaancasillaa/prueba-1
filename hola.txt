@@ -1,1 +1,7 @@
-hola jcwcbwhvfgfghufg
+git add . = agrega
+
+git status
+
+git commit -m ""
+
+git push 
